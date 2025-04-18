@@ -1,0 +1,102 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Mihai Handrea",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb093da7d92733c001c0_Ignacio%20Villafruela%20Rodr%C3%ADguez.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Soonoh Jung",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb401d7131c760ca1c63_Elieska%20Lensink.jpg"
+    }
+  ],
+  "events": [
+    {
+      "title": "Summer Camp",
+      "description": "Dive into your summer!",
+      "image": "/summercamp.jpg",
+      "location": "Black Sea Edition",
+      "startTime": "2025-07-10T08:00",
+      "endTime": "2025-07-22T13:20",
+      "categoryIds": [
+        2,
+        5
+      ],
+      "createdBy": 1,
+      "id": "1"
+    },
+    {
+      "title": "Tainan Dalpra, Gui Mendes Seminar",
+      "description": "Just world-class jiu-jitsu!",
+      "image": "/tainanguiseminar.jpg",
+      "location": "Șoseaua Pipera 44, București 020112",
+      "startTime": "2025-10-06T14:00",
+      "endTime": "2025-10-18T17:00",
+      "categoryIds": [
+        1
+      ],
+      "createdBy": 1,
+      "id": "2"
+    },
+    {
+      "title": "Women's Only Seminar",
+      "description": "This is where she rolls!",
+      "image": "/womenseminar.jpg",
+      "location": "Șoseaua Pipera 44, București 020112",
+      "startTime": "2025-09-15T12:00",
+      "endTime": "2025-09-15T15:00",
+      "categoryIds": [
+        1,
+        3
+      ],
+      "createdBy": 1,
+      "id": "3"
+    },
+    {
+      "title": "Winter Camp",
+      "description": "Exciting winter in the mountain!",
+      "image": "/wintercamp.jpg",
+      "location": "Carpathian mountain Edition",
+      "startTime": "2026-01-03T08:00",
+      "endTime": "2026-01-07T14:00",
+      "categoryIds": [
+        2,
+        5
+      ],
+      "createdBy": 2,
+      "id": "4"
+    },
+    {
+      "title": "Graduation Seminar",
+      "description": "It might be your belt promotion",
+      "image": "/seminar.jpg",
+      "location": "Șoseaua Pipera 44, București 020112",
+      "startTime": "2026-05-29T19:00",
+      "endTime": "2026-05-29T21:30",
+      "categoryIds": [
+        1
+      ],
+      "createdBy": 1,
+      "id": "5"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Seminar"
+    },
+    {
+      "id": "2",
+      "name": "Camp"
+    },
+    {
+      "id": "3",
+      "name": "Women Only"
+    },
+    {
+      "id": "5",
+      "name": "Competition Prep"
+    }
+  ]
+}

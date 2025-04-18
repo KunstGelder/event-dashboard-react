@@ -1,0 +1,21 @@
+# dependencies
+/node_modules
+
+# production
+/dist
+/build
+
+# misc
+.DS_Store
+.env
+*.log
+
+# Vite cache
+.vite
+
+# macOS system files
+.AppleDouble
+.LSOverride
+
+# VSCode local settings
+.vscode
