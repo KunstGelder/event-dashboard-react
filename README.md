@@ -32,7 +32,7 @@ Create, edit, search, filter, and delete events with category tags, image upload
 
 | Event List | Event Detail | Event Form (Edit) |
 |------------|--------------|-------------------|
-| ![Overview 1](./overview1.png) | ![Overview 2](./overview2.png) ㅣ
+| ![Overview 1](./overview0.png) | ![Overview 2](./overview2.png) ㅣ
 
 ---
 
