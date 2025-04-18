@@ -30,8 +30,8 @@ Create, edit, search, filter, and delete events with category tags, image upload
 
 ## 🖥️ Screenshots
 
-| Event List | Event Detail | Event Form (Edit) |
-|------------|--------------|-------------------|
+| Event List | Event Detail |
+|------------|--------------|
 | ![Overview 1](./overview0.png) | ![Overview 2](./overview2.png)
 
 ---
